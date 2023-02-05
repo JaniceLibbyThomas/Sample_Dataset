@@ -1,0 +1,7 @@
+.page-link:hover {
+  background-color: green;
+}
+
+.page-link:active {
+  background-color: blue;
+}
